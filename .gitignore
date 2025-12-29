@@ -1,0 +1,16 @@
+node_modules
+dist
+release
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.db-journal
+*.tsbuildinfo
+*.zip
+*.7z
+*.rar
+*.tgz
+.DS_Store
